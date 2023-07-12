@@ -1,5 +1,6 @@
 /**
- *
+ * @public
+ * 
  * An error representing a failure of an individual provider.
  *
  * This error class has special meaning to the {@link chain} method. If a
